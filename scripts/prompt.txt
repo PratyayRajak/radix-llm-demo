@@ -1,0 +1,1 @@
+Write a Scrypto blueprint for a simple token faucet contract in Rust.
